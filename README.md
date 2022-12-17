@@ -22,11 +22,11 @@ Esse projeto foi desenvolvido no terminal netbeans em grupo com outros estudante
 
 ## 🚀 Linguagens
 
-Esse projeto foi desenvolvido com as seguintes Linguagens:
+Esse projeto foi desenvolvido com as seguintes Linguagens e Tecnologias:
  
 <a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" target="_blank"></a>
+<a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" target="_blank"></a>
 
   
 
