@@ -17,7 +17,7 @@
 
 Esse projeto foi desenvolvido no terminal netbeans em grupo com outros estudantes para um projeto de faculdade, dentro dele você encontrara j-frames interativas com a linguagem Java, assim como métodos e classes que fazem conexão com MYsql
 
--Video demonstrativo: <a href="https://drive.google.com/file/d/1QdslAP_zZw0OnS7nFCA3vfdyxaJ_Yj6X/view?usp=share_link" target="_blank"> Clique aqui </a>  
+- Video demonstrativo: <a href="https://drive.google.com/file/d/1QdslAP_zZw0OnS7nFCA3vfdyxaJ_Yj6X/view?usp=share_link" target="_blank"> Clique aqui </a>  
 
 
 ## 🚀 Linguagens
