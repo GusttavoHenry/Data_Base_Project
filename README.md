@@ -8,7 +8,7 @@
 
 <br>
 
-![Resultado final do projeto](https://blog.4linux.com.br/wp-content/uploads/2018/03/Melhor-Curso-de-HTML5-e-CSS3-1900x946_c.png)
+![Resultado final do projeto](https://cdn.discordapp.com/attachments/696922608343449614/1053687263650914304/javaproject.jpg)
 
 <br>
 
@@ -24,9 +24,10 @@ Esse projeto foi desenvolvido no terminal netbeans em grupo com outros estudante
 
 Esse projeto foi desenvolvido com as seguintes Linguagens:
  
- <a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
- <a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  
+<a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" target="_blank"></a>
+
   
 
 
